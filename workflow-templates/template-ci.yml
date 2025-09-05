@@ -1,4 +1,4 @@
-# octo-organization-ci.yml
+# Amazing workflow provided by GH-200 
 name: GH-200 Organization CI
 on:
   push:

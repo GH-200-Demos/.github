@@ -1,7 +1,7 @@
 {
   "name": "GH-200 Organization Workflow",
   "description": "This is the CI template for the GH-200 organization.",
-  "iconName": "example-icon",
+  "iconName": "template-ci",
   "categories": [
 
   ],
