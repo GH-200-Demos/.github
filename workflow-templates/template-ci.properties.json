@@ -3,7 +3,7 @@
   "description": "This is the CI template for the GH-200 organization.",
   "iconName": "template-ci",
   "categories": [
-        "Utilities"
+        "utilities"
   ],
   "filePatterns": [
     ".*\\.gh200$"
