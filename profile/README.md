@@ -1,12 +1,19 @@
-## Hi there 👋
+# GH-200 Organization
 
-<!--
+Welcome to the **GH-200** organization!
 
-**Here are some ideas to get you started:**
+## About GH-200
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organization is dedicated to all demo content and resources related to the [GitHub Actions Certification (GH-200)](https://learn.microsoft.com/en-us/credentials/certifications/github-actions/?practice-assessment-type=certification) course.
+
+The GH-200 course is designed to help you demonstrate your expertise in automating software workflows, CI/CD, and DevOps practices using GitHub Actions. It covers key concepts such as:
+
+- Automating build, test, and deployment workflows
+- Managing secrets and environment variables
+- Using GitHub Actions for continuous integration and continuous delivery (CI/CD)
+- Customizing workflows with actions and reusable workflows
+- Monitoring and securing your automation pipelines
+
+---
+
+*GH-200 is your hub for mastering GitHub Actions and DevOps automation!*
